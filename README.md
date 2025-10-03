@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Vikas 👋
 
-<!--
-**Vikasabharadwaj/vikasabharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an **Aspiring Data Analyst** passionate about turning data into actionable insights. Skilled in **SQL, Power BI, Python**, and **data visualization**, I enjoy solving real-world problems using data. My focus is on delivering **meaningful dashboards, reports, and analytics** to drive business decisions.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- **Data Analysis:** Excel,SQL, Advanced Queries, Aggregations, DAX
+- **Data Visualization:** Power BI, Tableau
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Databases:** PostgreSQL, MySQL
+- **Others:** Git & GitHub, Data Cleaning & Preprocessing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- **Uber Trip Analysis:** Analyzed trip data to provide insights on cancellations, revenue, and vehicle usage. Created dynamic dashboards in Power BI using DAX measures.
+- **Sales Analysis Project:** Built end-to-end dashboards connecting Excel, SQL, and Power BI to visualize key sales trends.
+
+## 🌱 Currently Learning
+- Advanced **Machine Learning & AI** for data analytics
+- Optimizing **Power BI** dashboards for large datasets
+
+## 💼 Open to Work
+I'm looking for opportunities in **Data Analytics, Business Intelligence, and Reporting** roles where I can apply my analytical skills and contribute to business growth.
+
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email Address]
+
+---
+
+*“Data is the new oil, and I’m on a mission to refine it into insights.”*
